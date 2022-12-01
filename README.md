@@ -1,4 +1,4 @@
-# Personal-Portfolio-Website----Alina-Martin
+# Personal-Portfolio-Website ( Alina Martin ) 
 
 ## [Watch it on youtube](https://youtu.be/Eq96RLiSU60)
 ### Responsive Portfolio Website -- Alina Martin
